@@ -5,14 +5,14 @@
 
 title: 常忠原 # Website name
 baseurl: 'https://github.com/YuanzhongChang' # Website URL
-copyright: 'China © {2021} 常忠原 Powered by the Academic for Hugo' # Footer text, e.g. '© {year} Me'
+copyright: 'China © {2021} 常忠原-一个初试者 Powered by the Academic for Hugo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
