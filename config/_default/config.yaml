@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Chang Zhongyuan # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: 常忠原 # Website name
+baseurl: 'https://github.com/YuanzhongChang' # Website URL
+copyright: 'China © {2021} 常忠原 ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
